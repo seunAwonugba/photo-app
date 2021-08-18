@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhotoApp</string>
+    <string name="landing_text">This App needs to access your camera and phone storage, click Allow to accept and Reject to reject</string>
+    <string name="reject">Reject</string>
+    <string name="accept">Accept</string>
+    <string name="capture">Take photo</string>
+    <string name="extract">Extract</string>
+    <string name="upload">Upload</string>
+</resources>
